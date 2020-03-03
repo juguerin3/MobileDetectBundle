@@ -21,7 +21,7 @@
     ],
     "require": {
         "php": ">=7.2",
-        "symfony/framework-bundle": "~5.0",
+        "symfony/framework-bundle": "~4.*",
         "mobiledetect/mobiledetectlib": "~2.8",
         "twig/twig": "~3.0"
     },
